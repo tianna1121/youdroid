@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">poolinfo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="pool">pool</string>
+    <string name="lblock">nblk</string>
+    <string name="nblk">nblk</string>
+    <string name="pblk">pblk</string>
+</resources>
